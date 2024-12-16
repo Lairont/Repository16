@@ -64,6 +64,7 @@ namespace ConsoleApp16
             {
                 Console.WriteLine(item);
             }
+            Console.ReadLine();
         }
     }
 }
